@@ -1,0 +1,10 @@
+ion-simpletabs -sovelluspohja
+
+Tehty ionic-tabs -sovelluspohjasta yksinkertaistamalla rakennetta ja 
+poistamalla ei-välttämättömät tiedostot.
+
+Projektin nimen vaihtaminen on helppoa: vaihda projektikansion nimi, ja
+vaihda projektin nimi package.json ja ionic.config.json -tiedostoissa.
+
+Projektin nimeä ei vaihdeta angular.json -tiedostossa, koska kaikilla 
+ionic-projekteilla on siellä aina nimenä app.

@@ -1,0 +1,7 @@
+{
+  "name": "ion-kotisivu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
